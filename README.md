@@ -12,6 +12,18 @@ Created a personal portfolio With HTML and CSS .
 
 
 
+![Screenshot (242)](https://github.com/Jayprakash-1704/codsoft-tasks/assets/142290589/486fb37b-4261-4bbc-9957-d738b5123e43)
+![Screenshot (243)](https://github.com/Jayprakash-1704/codsoft-tasks/assets/142290589/3d48809e-4735-4198-ae52-f9cb8e478657)
+![Screenshot (244)](https://github.com/Jayprakash-1704/codsoft-tasks/assets/142290589/a7253d33-0e0e-4d42-8dfc-53d0d6702808)
+
+![Screenshot (245)](https://github.com/Jayprakash-1704/codsoft-tasks/assets/142290589/542ba3b9-df3f-455c-ba47-6287e0fe5724)
+![Screenshot (246)](https://github.com/Jayprakash-1704/codsoft-tasks/assets/142290589/b8ae7558-0892-495e-a583-90b80b0ca0f5)
+
+
+
+
+
+
 # Features
 
 ### 1. Responsive Design
